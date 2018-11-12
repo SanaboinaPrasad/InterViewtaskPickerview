@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "a10a8c61217b37fd2583119e88f9b0c5"
+build_time: [1542022740, 354440000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/Task/Task/ViewController.swift": [1539361782, 0]
+  "/Users/sriramprasad/Dev/rough/Task/Task/AppDelegate.swift": [1538636342, 0]
